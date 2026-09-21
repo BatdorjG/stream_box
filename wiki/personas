@@ -1,7 +1,7 @@
 # US-1.2: Audience Persona Card
 
 
-### Persona Profile: Mathilda Reynar
+## Persona Profile: Mathilda Reynar
 
 * **Company**: Junior DevOps at *Bloodborne Solutions*[cite: 6]
 * **Technical Role**: Infrastructure Administrator (`Infra admin`)[cite: 6]
@@ -10,7 +10,7 @@
 
 ---
 
-### Pain Points
+## Pain Points
 
 1. **Unsupported Codec Errors during Playback**
    Encounters HTML5 `<video>` player playback stalls with generic "Format Not Supported" errors because the server attempts to stream formats like H.265/HEVC directly without background transcoding[cite: 6].
@@ -23,6 +23,6 @@
 
 ---
 
-### User Frustration Quote
+## User Frustration Quote
 
 > *"I just want a simple one-click setup that works right away, and if it crashes, it should show why it crashed in a cohesive way."*[cite: 6]
