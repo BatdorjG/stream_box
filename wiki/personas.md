@@ -3,26 +3,26 @@
 
 ## Persona Profile: Mathilda Reynar
 
-* **Company**: Junior DevOps at *Bloodborne Solutions*[cite: 6]
-* **Technical Role**: Infrastructure Administrator (`Infra admin`)[cite: 6]
-* **Daily Toolstack**: Docker, Docker Compose, Git, GitHub, Nginx Proxy Manager, Bash[cite: 6]
-* **Target Use**: Self-hosted home streaming for family[cite: 6]
+* **Company**: Junior DevOps at *Bloodborne Solutions*
+* **Technical Role**: Infrastructure Administrator (`Infra admin`)
+* **Daily Toolstack**: Docker, Docker Compose, Git, GitHub, Nginx Proxy Manager, Bash
+* **Target Use**: Self-hosted home streaming for family
 
 ---
 
 ## Pain Points
 
 1. **Unsupported Codec Errors during Playback**
-   Encounters HTML5 `<video>` player playback stalls with generic "Format Not Supported" errors because the server attempts to stream formats like H.265/HEVC directly without background transcoding[cite: 6].
+   Encounters HTML5 `<video>` player playback stalls with generic "Format Not Supported" errors because the server attempts to stream formats like H.265/HEVC directly without background transcoding.
 
 2. **Fragile Uploads & Missing Progress**
-   When uploading gigabyte-sized home videos, the upload process fails midway without chunking or a visible progress indicator, forcing the user to restart the upload from the very beginning[cite: 6].
+   When uploading gigabyte-sized home videos, the upload process fails midway without chunking or a visible progress indicator, forcing the user to restart the upload from the very beginning.
 
 3. **Setting Up Apps Is Annoying**
-   Setting up the application is frustrating because it frequently breaks silently during installation without providing clear error outputs[cite: 6].
+   Setting up the application is frustrating because it frequently breaks silently during installation without providing clear error outputs.
 
 ---
 
 ## User Frustration Quote
 
-> *"I just want a simple one-click setup that works right away, and if it crashes, it should show why it crashed in a cohesive way."*[cite: 6]
+> *"I just want a simple one-click setup that works right away, and if it crashes, it should show why it crashed in a cohesive way."*
