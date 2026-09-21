@@ -1,7 +1,5 @@
 # Documentation Types in Real Repositories
 
-This matrix categorizes open-source projects into the four core documentation types based on Chinchilla Chapter 2 (Getting Started, Tutorials, Reference, and API)[cite: 2, 4].
-
 | Repository | Documentation Type | Typical User Query Answered | Typical File Path / URL Location |
 | :--- | :--- | :--- | :--- |
 | **FastAPI** | **Getting Started** | "Би хэрхэн FastAPI server үүсгэх вэ?" ("How do I create a FastAPI server?") | `/docs/en/docs/tutorial/first-steps.md`[cite: 5] |
